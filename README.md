@@ -15,5 +15,8 @@ Along with web development, my main passions include:
 - Playing the Guitar
 - Movies
 
+***
+#### About
+This markdown file has been made to demonstrate deployment with GitHub Pages and how to write markdown.  
 
 
